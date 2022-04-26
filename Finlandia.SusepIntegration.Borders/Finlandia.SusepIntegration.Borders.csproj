@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Finlandia.SusepIntegration.Shared\Finlandia.SusepIntegration.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Validators\" />
+    <Folder Include="UseCases\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+</Project>

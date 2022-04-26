@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Finlandia.SusepIntegration.Borders\Finlandia.SusepIntegration.Borders.csproj" />
+    <ProjectReference Include="..\Finlandia.SusepIntegration.Shared\Finlandia.SusepIntegration.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

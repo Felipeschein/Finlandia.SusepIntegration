@@ -11,8 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Borders\Borders.csproj" />
-    <ProjectReference Include="..\Shared\Shared.csproj" />
+    <ProjectReference Include="..\Shared\Finlandia.SusepIntegration.Shared.csproj" />
   </ItemGroup>
 
 </Project>
